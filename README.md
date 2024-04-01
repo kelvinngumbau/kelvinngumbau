@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @kelvinngumbau
+- 👀 I’m python developer passionate about creating innovative solutions
+- 🌱 I’m currently learning about advanced Django concepts and exploring machine learning algorithms
+- 💞️ I’m looking to collaborate on exciting python/Django projects or contributing in open-source initiatives
+- 📫 You reach me via kelvinngumbau1@gmail.com or connect to me via linkedin https://www.linkedin.com/in/kelvin-mwako-62a59a238/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm also a certified scuba diver and love exploring underwater ecosystems in my free time
